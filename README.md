@@ -1,3 +1,5 @@
 2k1000_1.py内为2k1000上运行的python程序
 Seekfree_LS2K0300_Opensource_Library.zip 内为 2k0300的开源库及自己编写的程序
 daomang.hd是语音模块的文件代码
+car model(1).pdf为车壳模型三视图
+qiansai.ino为arduino环境下esp32的代码（用于上传数据到云端）
